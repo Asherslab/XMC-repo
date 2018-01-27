@@ -1,0 +1,16 @@
+{
+  "info":"Launcher is in beta, report bugs to developer",
+  "discord":"https://discord.gg/KhBDa2t",
+  "latest":0.1,
+  "downloads":[
+    {
+      "name":"0.1",
+      "type":"beta",
+      "url":"",
+      "sha1":"",
+      "sha256":""
+    }
+  ],
+  "launcher_meta":"https://launchermeta.mojang.com/mc/game/version_manifest.json",
+  "forge_versions":""
+}
