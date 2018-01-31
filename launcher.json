@@ -12,5 +12,15 @@
     }
   ],
   "launcher_meta":"https://launchermeta.mojang.com/mc/game/version_manifest.json",
-  "forge_versions":""
+  "forge_versions":"",
+  "news":{
+    "title":"Development started",
+    "timestamp":"1517416396445",
+    "author":"Cubxity",
+    "content":[
+      "Hello there folks! XMC launcher had started it's development, this launcher will supports multi gamespaces, versions and multiple instances at once",
+      "",
+      "We've planned a LOT of features for the launcher, join Cubxity's discord for updates and more information regarding updates https://discord.gg/KhBDa2t"
+    ]
+  }
 }
