@@ -5,6 +5,6 @@
   theme:{
     "icons":[],
     "style":"",
-    "color":""
+    "color":"https://raw.githubusercontent.com/XMCLauncher/XMC-repo/master/central/themes/dark-theme/colors.json"
   }
 }
