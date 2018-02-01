@@ -11,6 +11,7 @@ Feel free to add packages by making PR
 - Packages needs to be tested and not malicious
 
 **Package.json**
+
 Theme:
 ```json
 {
