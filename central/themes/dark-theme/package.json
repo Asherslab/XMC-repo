@@ -2,7 +2,7 @@
   "name":"dark-theme",
   "version":"0.0.1",
   "type":"THEME",
-  theme:{
+  "theme":{
     "icons":[],
     "style":"",
     "color":"https://raw.githubusercontent.com/XMCLauncher/XMC-repo/master/central/themes/dark-theme/colors.json"
