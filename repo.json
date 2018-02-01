@@ -1,0 +1,17 @@
+{
+  "name":"XMC-Central",
+  "repo-version":"0.1",
+  "owners":["XMC Team"],
+  "packages":[
+    {
+      "name":"dark-theme",
+      "description":"Official dark theme for XMC launcher",
+      "url":""
+    },
+    {
+      "name":"light-theme",
+      "description":"Official light theme for XMC launcher",
+      "url":""
+    }
+  ]
+}
