@@ -1,0 +1,10 @@
+{
+  "name":"dark-theme",
+  "version":"0.0.1",
+  "type":"THEME",
+  theme:{
+    "icons":[],
+    "style":"",
+    "color":""
+  }
+}
