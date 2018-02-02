@@ -3,5 +3,6 @@
   "tab":[16, 108, 163],
   "tab-hover":[12, 94, 145],
   "tab-focused":[12, 94, 145],
-  "background":[22, 26, 29]
+  "background":[22, 26, 29],
+  "bottom-bar":[27, 32, 36]
 }
