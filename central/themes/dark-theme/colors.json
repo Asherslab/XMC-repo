@@ -4,5 +4,7 @@
   "tab-hover":[12, 94, 145],
   "tab-focused":[12, 94, 145],
   "background":[22, 26, 29],
-  "bottom-bar":[27, 32, 36]
+  "bottom-bar":[27, 32, 36],
+  "account-area-hover":[25, 30, 34],
+  "account-area-focused":[25, 30, 34]
 }
